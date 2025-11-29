@@ -1,0 +1,7 @@
+{
+  "name": "Shahi Nihar Voice Concierge",
+  "description": "A voice-enabled AI reservation assistant for a luxury North Indian restaurant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
